@@ -20,3 +20,6 @@ Siden åpnes på adressen som Vite viser i terminalen.
 ## Utvikling
 
 Jeg bruker Vite for å kjøre prosjektet mens jeg jobber med det.
+## Prosjektstruktur
+
+index.html er hovedsiden i prosjektet. Standard demo-innhold fra Vite er fjernet slik at prosjektet kun inneholder det som trengs.
