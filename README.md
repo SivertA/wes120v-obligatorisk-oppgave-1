@@ -17,3 +17,6 @@ Start utviklingsserveren med:
 pnpm dev
 
 Siden åpnes på adressen som Vite viser i terminalen.
+## Utvikling
+
+Jeg bruker Vite for å kjøre prosjektet mens jeg jobber med det.
